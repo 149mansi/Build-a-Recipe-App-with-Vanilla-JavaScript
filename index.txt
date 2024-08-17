@@ -58,8 +58,8 @@ Snack
 Teatime
 
 alt = Recipe name
-
 Recipe name
+
 
 <span class="material-symbols-outlined" aria-hidden="true">schedule</span>
 2 minutes
